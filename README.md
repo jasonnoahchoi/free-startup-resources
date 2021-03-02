@@ -427,6 +427,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Where Nomads at**](https://where-my-nomads.at/): Find digital nomads & travelers all around the world.
 - [**Nomad Jobs**](https://nomadjobs.com/): The best remote jobs at the best startups.
 - [**What’s It Like**](https://www.whatsitlikeapp.com/): Helping travelers figure out WHEN to go.
+- [**arbeitnow**](https://arbeitnow.com): Remote jobs board
 
 # Discover Tools & Startups
 - [**Product Hunt**](https://www.producthunt.com/): Curation of the best new products, every day.
